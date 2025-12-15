@@ -1,0 +1,5 @@
+/* App specific styles if needed - global styles are in index.css */
+/* Minimal Reset here as index.css handles most */
+.app-container {
+  min-height: 100vh;
+}
